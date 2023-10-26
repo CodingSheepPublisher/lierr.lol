@@ -1,0 +1,36 @@
+body {
+	padding: 0px;
+	font-family: arial, sans-serif;
+	text-align: center;
+	background-image: url(background2.png);
+	color: white;
+	background-size: 120%;
+	background-repeat: repeat;
+	max-height: 100vh;
+	min-height: 100vh;
+	background-color: rgb(0, 1, 10);
+
+    
+
+}
+
+::-webkit-scrollbar { display: none; }
+
+.link1 {
+
+	text-decoration: underline;
+	color: whitesmoke;
+}
+
+/*.purchasebutton {
+
+	color: white;
+	background-color: blue;
+	outline-color: rgba(0, 0, 0, 0.01);
+
+}*/
+
+.hr1 {
+
+	width: 20%;
+}
